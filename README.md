@@ -4,28 +4,135 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/aniruddha9674?tab=followers">
-    <img src="https://img.shields.io/github/followers/aniruddha9674?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers" />
-  </a>
-  <a href="https://github.com/aniruddha9674">
-    <img src="https://komarev.com/ghpvc/?username=aniruddha9674&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://linkedin.com/in/aniruddha-nalawade">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ### About
 
 Backend-focused Computer Engineering student ('27), building systems that ship. Currently deepening my work in **Node.js**, **PostgreSQL**, and **AWS** — from event-driven architectures to infrastructure analyzers. I care about clean interfaces, real test coverage, and doing the small things right.
 
-- 🦈 Building **SmartShark** — a Virtual Shark Tank connecting Indian businesses with investors
-- ☁️ Exploring **cloud infrastructure**, **AI integration**, and **system design**
 - 🏆 1st Prize, PIC National Level Project Competition (out of 50+ teams)
 - 📫 Reach me at **aniruddhanalawade1234@gmail.com**
+
+---
+
+### 🚧 Currently Working On
+
+#### 🦈 SmartShark
+*Virtual Shark Tank platform — businesses pitch for investment, investors match and make offers.*
+
+**Stack:** Node.js · Express · PostgreSQL · MongoDB · Redis · React · Drizzle ORM
+
+**Highlights:**
+- 60+ REST endpoints · 570+ tests running in CI
+- Event-driven architecture with a self-maintaining registry (unknown event types are recorded, not dropped)
+- OCR verification pipeline for Udyam, GST, and Shop Act documents
+- Redis-cached investor feed populated with 788 real businesses
+- Deployed on Render with health checks, structured logging, and graceful shutdown
+
+[Repository](https://github.com/aniruddha9674/smartshark)
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ☁️ IaC Visualizer
+*CloudFormation blast radius analyzer — traces downstream impact of template changes.*
+
+**Stack:** Node.js · React · AWS Lambda · API Gateway · Bedrock · SAM
+
+**Highlights:**
+- Reverse-BFS blast radius computation beyond single-resource linters
+- Intrinsic-tag walker (Ref, GetAtt, Sub, DependsOn) with 8 deterministic rules
+- Cross-resource IAM check for unreachable S3 references
+- Bedrock Nova Micro narration downstream of the rule engine
+- 16 tests in CI · Deployed on Amplify
+
+[Repository](https://github.com/aniruddha9674/iac-visualizer)
+
+</td>
+<td width="50%" valign="top">
+
+#### ♟️ BlunderZero
+*Chess engine with adaptive difficulty.*
+
+**Stack:** Python · FastAPI
+
+**Highlights:**
+- Depth-limited minimax with alpha-beta pruning
+- Three difficulty levels mapped to search depths
+- Tactical pattern detection: fork, pin, skewer, discovered attack
+- Tested against human play at all three levels
+
+[Repository](https://github.com/aniruddha9674/blunderzero)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📦 Invennzy
+*Inventory & business management platform used daily by a pilot lab.*
+
+**Stack:** Node.js · Express · MySQL · React · Cloudinary
+
+**Highlights:**
+- 1st Prize, PIC National Level Project Competition (out of 50+ teams)
+- Three-tier RBAC (Admin, Manager, Staff) via JWT middleware
+- Billing query optimized from full scan → index range scan (EXPLAIN verified)
+- Cloudinary-backed PDF generation for invoices
+
+[Repository](https://github.com/aniruddha9674/Invennzy)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 Gradyze
+*Academic management platform with role-based dashboards for admins, teachers, and students.*
+
+**Stack:** React · Node.js · Express · MongoDB · JWT
+
+**Highlights:**
+- Three separate login flows (Admin, Teacher, Student) with JWT auth
+- Protected admin workspace guarded by `PrivateRoute`
+- Modular academic tools served from a dashboard menu
+- Public marketing site with feature, pricing, and testimonial sections
+
+[Repository](https://github.com/aniruddha9674/gradyze)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 Pixel
+*Modern pixel-art editor with a cinematic intro.*
+
+**Stack:** React · TypeScript · Vite
+
+**Highlights:**
+- Custom canvas rendering pipeline
+- Cinematic intro animations
+- Componentized tool palette
+
+[Repository](https://github.com/aniruddha9674/Pixel)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Personal Site
+*Portfolio and project showcase.*
+
+**Stack:** HTML · CSS
+
+[Repository](https://github.com/aniruddha9674/aniruddha9674.github.io)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,109 +183,6 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 
 ---
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🦈 SmartShark
-*Virtual Shark Tank platform — businesses pitch, investors match and make offers.*
-
-**Stack:** Node.js · Express · PostgreSQL · MongoDB · Redis · React · Drizzle
-
-**Highlights:**
-- 60+ REST endpoints · 570+ tests in CI
-- Event-driven architecture with self-maintaining registry
-- OCR verification pipeline (Udyam, GST, Shop Act)
-- Redis-cached investor feed with 788 real businesses
-
-[Repository](https://github.com/aniruddha9674/smartshark)
-
-</td>
-<td width="50%" valign="top">
-
-#### ☁️ IaC Visualizer
-*CloudFormation blast radius analyzer — traces downstream impact of template changes.*
-
-**Stack:** Node.js · React · AWS Lambda · API Gateway · Bedrock · SAM
-
-**Highlights:**
-- Reverse-BFS blast radius computation beyond single-resource linters
-- Intrinsic-tag walker (Ref, GetAtt, Sub, DependsOn) with 8 deterministic rules
-- Cross-resource IAM check for unreachable S3 references
-- Bedrock Nova Micro narration downstream of rule engine
-- 16 tests in CI · Deployed on Amplify
-
-[Repository](https://github.com/aniruddha9674/iac-visualizer)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ♟️ BlunderZero
-*Chess engine with adaptive difficulty.*
-
-**Stack:** Python · FastAPI
-
-**Highlights:**
-- Depth-limited minimax with alpha-beta pruning
-- Three difficulty levels mapped to search depths
-- Tactical pattern detection: fork, pin, skewer, discovered attack
-- Tested against human play at all three levels
-
-[Repository](https://github.com/aniruddha9674/blunderzero)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📦 Invennzy
-*Inventory & business management platform used daily by a pilot lab.*
-
-**Stack:** Node.js · Express · MySQL · React · Cloudinary
-
-**Highlights:**
-- 1st Prize, PIC National Level Project Competition (out of 50+ teams)
-- Three-tier RBAC (Admin, Manager, Staff) via JWT middleware
-- Billing query optimized from full scan → index range scan (EXPLAIN verified)
-- Cloudinary-backed PDF generation for invoices
-
-[Repository](https://github.com/aniruddha9674/Invennzy)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎨 Pixel
-*Modern pixel-art editor with a cinematic intro.*
-
-**Stack:** React · TypeScript · Vite
-
-**Highlights:**
-- Custom canvas rendering pipeline
-- Cinematic intro animations
-- Componentized tool palette
-
-[Repository](https://github.com/aniruddha9674/Pixel)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 Personal Site
-*Portfolio and project showcase.*
-
-**Stack:** HTML · CSS
-
-[Repository](https://github.com/aniruddha9674/aniruddha9674.github.io)
-
-</td>
-</tr>
-</table>
-
----
-
 ### Experience
 
 **Software Developer Intern** · Prudent Agency · 2025
@@ -192,25 +196,11 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 
 ### Certifications
 
-<table>
-<tr>
-<td align="center" width="33%">
-<b>Oracle Database</b><br/>
-<i>SQL Programming</i><br/>
-<span style="color:#888">Oracle Academy · 2025</span>
-</td>
-<td align="center" width="33%">
-<b>MongoDB</b><br/>
-<i>Data Modeling</i><br/>
-<span style="color:#888">MongoDB University · 2025</span>
-</td>
-<td align="center" width="33%">
-<b>AWS Academy Graduate</b><br/>
-<i>Cloud Foundations</i><br/>
-<span style="color:#888">AWS · 2026</span>
-</td>
-</tr>
-</table>
+| Certification | Issuer | Year |
+|---|---|---|
+| Oracle Database Programming with SQL | Oracle Academy | 2025 |
+| MongoDB Data Modeling | MongoDB University | 2025 |
+| AWS Academy Graduate — Cloud Foundations | AWS | 2026 |
 
 ---
 
