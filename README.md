@@ -8,7 +8,7 @@
 
 ### About
 
-Backend-focused Computer Engineering student ('27), building systems that ship. I work primarily in **Node.js**, **PostgreSQL**, and **AWS** — from event-driven architectures to infrastructure analyzers. I care about clean interfaces, real test coverage, and doing the small things right.
+Backend-focused Computer Engineering student ('27), building systems that ship. Currently part of **[@Incorbis](https://github.com/Incorbis)**. I work primarily in **Node.js**, **PostgreSQL**, and **AWS** — from event-driven architectures to infrastructure analyzers. I care about clean interfaces, real test coverage, and doing the small things right.
 
 - 🔭 Deepening my work in **distributed systems** and **cloud infrastructure**
 - 🌱 Exploring **AI integration** and **system design patterns**
@@ -115,7 +115,7 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 - Cloudinary-backed PDF generation for invoices
 - Modular backend routers for billing, inventory, and orders
 
-[Live](https://invennzy.com) · [Repository](https://github.com/aniruddha9674/Invennzy)
+[Live](https://invennzy.com) · [Repository](https://github.com/Incorbis/Invennzy)
 
 </td>
 </tr>
@@ -185,6 +185,13 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 ---
 
 ### Experience
+
+**Software Developer** · [Incorbis](https://github.com/Incorbis) · 2025 – Present
+*Inventory & business management platform (Invennzy)*
+
+- Part of the team behind **Invennzy** — a lab inventory management platform used daily by a pilot lab
+- Contributed to billing and inventory modules, structured as independent backend routers
+- Implemented three-tier RBAC (Admin, Manager, Staff) via JWT middleware
 
 **Software Developer Intern** · Prudent Agency · 2025
 *Node.js · PostgreSQL · Instagram Graph API · YouTube Data API*
