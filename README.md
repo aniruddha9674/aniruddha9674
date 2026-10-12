@@ -77,7 +77,7 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 - Redis-cached investor feed populated with 788 real businesses
 - Deployed on Render with health checks, structured logging, and graceful shutdown
 
-[Repository](https://github.com/aniruddha9674/smartshark)
+[API Docs](https://smartshark.onrender.com/docs) · [Repository](https://github.com/aniruddha9674/smartshark)
 
 ---
 
@@ -97,11 +97,62 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 - Intrinsic-tag walker (Ref, GetAtt, Sub, DependsOn) with 8 deterministic rules
 - Cross-resource IAM check for unreachable S3 references
 - Bedrock Nova Micro narration downstream of the rule engine
-- 16 tests in CI · Deployed on Amplify
+- 16 tests in CI · Deployed on Vercel
 
-[Repository](https://github.com/aniruddha9674/iac-visualizer)
+[Live](https://iac-visualizer.vercel.app/) · [Repository](https://github.com/aniruddha9674/iac-visualizer)
 
 </td>
+<td width="50%" valign="top">
+
+#### 📦 Invennzy
+*Inventory & business management platform used daily by a pilot lab.*
+
+**Stack:** Node.js · Express · MySQL · React · Cloudinary
+
+**Highlights:**
+- Three-tier RBAC (Admin, Manager, Staff) via JWT middleware
+- Billing query optimized from full scan → index range scan (EXPLAIN verified)
+- Cloudinary-backed PDF generation for invoices
+- Modular backend routers for billing, inventory, and orders
+
+[Live](https://invennzy.com) · [Repository](https://github.com/aniruddha9674/Invennzy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 Gradyze
+*Academic management platform with role-based dashboards for admins, teachers, and students.*
+
+**Stack:** React · Node.js · Express · MongoDB · JWT
+
+**Highlights:**
+- Three separate login flows (Admin, Teacher, Student) with JWT auth
+- Protected admin workspace guarded by `PrivateRoute`
+- Modular academic tools served from a dashboard menu
+- Public marketing site with feature, pricing, and testimonial sections
+
+[Live](https://gradyze.com) · [Repository](https://github.com/aniruddha9674/gradyze)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Pixel
+*Modern pixel-art editor with a cinematic intro.*
+
+**Stack:** React · TypeScript · Vite
+
+**Highlights:**
+- Custom canvas rendering pipeline
+- Cinematic intro animations
+- Componentized tool palette
+
+[Live](https://www.pixelcraftpccoer.in/) · [Repository](https://github.com/aniruddha9674/Pixel)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### ♟️ BlunderZero
@@ -118,57 +169,6 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 [Repository](https://github.com/aniruddha9674/blunderzero)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📦 Invennzy
-*Inventory & business management platform used daily by a pilot lab.*
-
-**Stack:** Node.js · Express · MySQL · React · Cloudinary
-
-**Highlights:**
-- Three-tier RBAC (Admin, Manager, Staff) via JWT middleware
-- Billing query optimized from full scan → index range scan (EXPLAIN verified)
-- Cloudinary-backed PDF generation for invoices
-- Modular backend routers for billing, inventory, and orders
-
-[Repository](https://github.com/aniruddha9674/Invennzy)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 Gradyze
-*Academic management platform with role-based dashboards for admins, teachers, and students.*
-
-**Stack:** React · Node.js · Express · MongoDB · JWT
-
-**Highlights:**
-- Three separate login flows (Admin, Teacher, Student) with JWT auth
-- Protected admin workspace guarded by `PrivateRoute`
-- Modular academic tools served from a dashboard menu
-- Public marketing site with feature, pricing, and testimonial sections
-
-[Repository](https://github.com/aniruddha9674/gradyze)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎨 Pixel
-*Modern pixel-art editor with a cinematic intro.*
-
-**Stack:** React · TypeScript · Vite
-
-**Highlights:**
-- Custom canvas rendering pipeline
-- Cinematic intro animations
-- Componentized tool palette
-
-[Repository](https://github.com/aniruddha9674/Pixel)
-
-</td>
 <td width="50%" valign="top">
 
 #### 🌐 Personal Site
@@ -176,7 +176,7 @@ Backend-focused Computer Engineering student ('27), building systems that ship. 
 
 **Stack:** HTML · CSS
 
-[Repository](https://github.com/aniruddha9674/aniruddha9674.github.io)
+[Live](https://aniruddha9674.github.io) · [Repository](https://github.com/aniruddha9674/aniruddha9674.github.io)
 
 </td>
 </tr>
