@@ -1,91 +1,228 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;Building+Scalable+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=Backend+Engineer;Cloud+%26+Infrastructure;Building+Production-Grade+Systems;CS+%2727+%C2%B7+Pune%2C+India" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <a href="https://github.com/aniruddha9674?tab=followers">
-    <img src="https://img.shields.io/github/followers/aniruddha9674?label=Followers&style=for-the-badge&color=3b82f6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/aniruddha9674?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers" />
   </a>
   <a href="https://github.com/aniruddha9674">
     <img src="https://komarev.com/ghpvc/?username=aniruddha9674&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
   </a>
+  <a href="https://linkedin.com/in/aniruddha-nalawade">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## About Me
+### About
 
-I'm a full-stack developer focused on building scalable, production-grade applications. I enjoy solving complex problems, from system architecture to database design, and I'm passionate about writing clean, maintainable code.
+Backend-focused Computer Engineering student ('27), building systems that ship. Currently deepening my work in **Node.js**, **PostgreSQL**, and **AWS** — from event-driven architectures to infrastructure analyzers. I care about clean interfaces, real test coverage, and doing the small things right.
 
-- 🔭 Currently building **SmartShark**, a Virtual Shark Tank platform connecting businesses with investors.
-- 🌱 Exploring **AI/ML integration** and **system design patterns**.
-- 💬 Ask me about **Node.js**, **PostgreSQL**, **React**, and **cloud deployments**.
-- 📫 Reach me at **aniruddhanalawade9674@gmail.com**.
+- 🦈 Building **SmartShark** — a Virtual Shark Tank connecting Indian businesses with investors
+- ☁️ Exploring **cloud infrastructure**, **AI integration**, and **system design**
+- 🏆 1st Prize, PIC National Level Project Competition (out of 50+ teams)
+- 📫 Reach me at **aniruddhanalawade1234@gmail.com**
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**Frontend**
-<br />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Backend**
-<br />
+**Backend & APIs**
+<br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-**Database**
-<br />
+**Databases**
+<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-**Cloud & DevOps**
-<br />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+**Cloud & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+**Tools**
+<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-### 🦈 SmartShark
-A Virtual Shark Tank platform — businesses pitch for investment, investors match and make offers.
-- **Stack:** Node.js, Express, PostgreSQL, MongoDB, Redis, React, Drizzle ORM
-- **Highlights:** 60+ endpoints, 570+ tests, event-driven architecture, OCR verification pipeline.
-- [Live API](https://smartshark.onrender.com) · [Repository](https://github.com/aniruddha9674/smartshark)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎨 Pixel
-A modern pixel-art editor with a cinematic intro.
-- **Stack:** React, TypeScript, Vite
-- [Repository](https://github.com/aniruddha9674/Pixel)
+#### 🦈 SmartShark
+*Virtual Shark Tank platform — businesses pitch, investors match and make offers.*
 
-### 📊 IAC Visualizer
-An interactive visualizer for Infrastructure as Code.
-- **Stack:** JavaScript, Vite
-- [Repository](https://github.com/aniruddha9674/iac-visualizer)
+**Stack:** Node.js · Express · PostgreSQL · MongoDB · Redis · React · Drizzle
+
+**Highlights:**
+- 60+ REST endpoints · 570+ tests in CI
+- Event-driven architecture with self-maintaining registry
+- OCR verification pipeline (Udyam, GST, Shop Act)
+- Redis-cached investor feed with 788 real businesses
+
+[Repository](https://github.com/aniruddha9674/smartshark)
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ IaC Visualizer
+*CloudFormation blast radius analyzer — traces downstream impact of template changes.*
+
+**Stack:** Node.js · React · AWS Lambda · API Gateway · Bedrock · SAM
+
+**Highlights:**
+- Reverse-BFS blast radius computation beyond single-resource linters
+- Intrinsic-tag walker (Ref, GetAtt, Sub, DependsOn) with 8 deterministic rules
+- Cross-resource IAM check for unreachable S3 references
+- Bedrock Nova Micro narration downstream of rule engine
+- 16 tests in CI · Deployed on Amplify
+
+[Repository](https://github.com/aniruddha9674/iac-visualizer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ♟️ BlunderZero
+*Chess engine with adaptive difficulty.*
+
+**Stack:** Python · FastAPI
+
+**Highlights:**
+- Depth-limited minimax with alpha-beta pruning
+- Three difficulty levels mapped to search depths
+- Tactical pattern detection: fork, pin, skewer, discovered attack
+- Tested against human play at all three levels
+
+[Repository](https://github.com/aniruddha9674/blunderzero)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 Invennzy
+*Inventory & business management platform used daily by a pilot lab.*
+
+**Stack:** Node.js · Express · MySQL · React · Cloudinary
+
+**Highlights:**
+- 1st Prize, PIC National Level Project Competition (out of 50+ teams)
+- Three-tier RBAC (Admin, Manager, Staff) via JWT middleware
+- Billing query optimized from full scan → index range scan (EXPLAIN verified)
+- Cloudinary-backed PDF generation for invoices
+
+[Repository](https://github.com/aniruddha9674/Invennzy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 Pixel
+*Modern pixel-art editor with a cinematic intro.*
+
+**Stack:** React · TypeScript · Vite
+
+**Highlights:**
+- Custom canvas rendering pipeline
+- Cinematic intro animations
+- Componentized tool palette
+
+[Repository](https://github.com/aniruddha9674/Pixel)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Personal Site
+*Portfolio and project showcase.*
+
+**Stack:** HTML · CSS
+
+[Repository](https://github.com/aniruddha9674/aniruddha9674.github.io)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+### Experience
+
+**Software Developer Intern** · Prudent Agency · 2025
+*Node.js · PostgreSQL · Instagram Graph API · YouTube Data API*
+
+- Built a **Campaign Report Analyzer** replacing a manual CSV workflow — pulls ad performance data daily into PostgreSQL
+- Wrote the API integration layer handling auth, pagination, and retries without duplicate ingestion
+- Implemented ad metrics (CTR, CPR, ROAS, net revenue) for the daily profitability report
+
+---
+
+### Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Oracle Database</b><br/>
+<i>SQL Programming</i><br/>
+<span style="color:#888">Oracle Academy · 2025</span>
+</td>
+<td align="center" width="33%">
+<b>MongoDB</b><br/>
+<i>Data Modeling</i><br/>
+<span style="color:#888">MongoDB University · 2025</span>
+</td>
+<td align="center" width="33%">
+<b>AWS Academy Graduate</b><br/>
+<i>Cloud Foundations</i><br/>
+<span style="color:#888">AWS · 2026</span>
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha9674&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddha9674&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha9674&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha9674&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha9674&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6" alt="Top Languages" />
 </p>
 
 ---
